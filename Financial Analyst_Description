@@ -1,0 +1,7 @@
+THe Project is to Analyze the stock price and revenue on both GME and Tesla
+
+For the Stock price data
+We're using 'yfinance' library from python 
+Using Ticker we've creating object for both the companies 'Tesla' and 'GME'.
+
+For the Revenue data we're fetching data using WebScraping with the help of BeautifulSoup
